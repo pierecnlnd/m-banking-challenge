@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "name": "John Doe",
+            "phone_number": "555-555-5555",
+            "home_address": "123 Main St, Anytown USA",
+            "balance": 100.0,
+            "username": "admin1",
+            "password": "admin1@123"
+        },
+        {
+            "name": "Jane Smith",
+            "phone_number": "555-555-5556",
+            "home_address": "456 Park Ave, Anytown USA",
+            "balance": 200.0,
+            "username": "admin1",
+            "password": "admin1@123"
+        },
+        {
+            "name": "Bob Johnson",
+            "phone_number": "555-555-5557",
+            "home_address": "789 Elm St, Anytown USA",
+            "balance": 300.0,
+            "username": "admin1",
+            "password": "admin1@123"
+        }
+    ]
+  }
+  

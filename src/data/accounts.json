@@ -1,0 +1,26 @@
+[
+      {
+        "name": "adi",
+        "bank_account": {
+          "account_number": "1234567890",
+          "routing_number": "0987654321",
+          "balance": 1000.00
+        }
+      },
+      {
+        "name": "joko",
+        "bank_account": {
+          "account_number": "2345678901",
+          "routing_number": "1987654322",
+          "balance": 2000.00
+        }
+      },
+      {
+        "name": "toni",
+        "bank_account": {
+          "account_number": "3456789012",
+          "routing_number": "2987654323",
+          "balance": 3000.00
+        }
+      }
+]
